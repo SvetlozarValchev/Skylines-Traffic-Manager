@@ -142,6 +142,7 @@ namespace TrafficManager
                 }
                 if (CustomNetTool.FieldUpgrading)
                 {
+                    Debug.Log(startPoint);
                     //var priorityList = new Dictionary<ushort, int>();
 
                     //if (CustomRoadAI.GetNodeSimulation(startPoint.m_node) != null)
