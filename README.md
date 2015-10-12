@@ -14,9 +14,7 @@ A WIP mod for Cities: Skylines to add additional road traffic control
 
 # Known issues
 
-- Crosswalks become permanent upon save/load game
-- Crosswalks work on places it shouldn't (like intersections) and the result is missing textures.
-- Other minor issues
+- No 'save to cloud' support
 
 # Roadmap
 
